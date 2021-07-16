@@ -4,11 +4,11 @@
 
 A simple project that helps understand the basics of Reinforcement Learning. Set up an enviroment and then train, evaluate and test a model, use callback and try different algorithms (PPO, DQN).
 
-## 2️⃣
+## 2️⃣ Atari
 
-## 3️⃣
+## 3️⃣ Autonomous Driving
 
-## 4️⃣
+## 4️⃣ Custom Open AI Gym Environments
 
 
 ________________________________
