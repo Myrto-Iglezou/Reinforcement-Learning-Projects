@@ -2,7 +2,7 @@
 
 ## 1️⃣ Demo Project
 
-A simple project that helps understand the basics of Reinforcement Learning.
+A simple project that helps understand the basics of Reinforcement Learning. Set up an enviroment and then train, evaluate and test a model, use callback and try different algorithms (PPO, DQN).
 
 ## 2️⃣
 
@@ -13,4 +13,4 @@ A simple project that helps understand the basics of Reinforcement Learning.
 
 ________________________________
 
-Projects from the [course](https://www.youtube.com/watch?v=Mut_u40Sqz4&ab_channel=NicholasRenotte) of **Nichola Renotte**.
+Projects from the [course](https://www.youtube.com/watch?v=Mut_u40Sqz4&ab_channel=NicholasRenotte) by **Nichola Renotte**.
